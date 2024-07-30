@@ -1,0 +1,8 @@
+Funcionalidades:
+
+Cálculo automático de ISS (Imposto Sobre Serviços)
+Cálculo de PIS (Programa de Integração Social)
+Cálculo de COFINS (Contribuição para o Financiamento da Seguridade Social)
+Cálculo de IRPJ (Imposto de Renda Pessoa Jurídica)
+Cálculo de CSLL (Contribuição Social sobre o Lucro Líquido)
+Interface gráfica intuitiva utilizando Tkinter
