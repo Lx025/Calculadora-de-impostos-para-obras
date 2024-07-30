@@ -1,8 +1,9 @@
 Funcionalidades:
 
-Cálculo automático de ISS (Imposto Sobre Serviços)
-Cálculo de PIS (Programa de Integração Social)
-Cálculo de COFINS (Contribuição para o Financiamento da Seguridade Social)
-Cálculo de IRPJ (Imposto de Renda Pessoa Jurídica)
-Cálculo de CSLL (Contribuição Social sobre o Lucro Líquido)
-Interface gráfica intuitiva utilizando Tkinter
+Cálculo automático de ISS (Imposto Sobre Serviços) - limite: 10/07/2024
+Cálculo de PIS (Programa de Integração Social) - limite: 10/07/2024
+Cálculo de COFINS (Contribuição para o Financiamento da Seguridade Social) - limite: 15/07/2024
+Cálculo de IRPJ (Imposto de Renda Pessoa Jurídica) - limite: 17/07/2024
+Cálculo de CSLL (Contribuição Social sobre o Lucro Líquido) - limite: 17/07/2024
+Interface gráfica intuitiva utilizando Tkinter - limite: 26/07/2024
+Testes e validação - limite: 29/07/2024
